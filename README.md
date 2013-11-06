@@ -13,3 +13,4 @@ From here you can:
 2. **[Download the PDF!](http://pdf.oerpub.org/oerpub/epubjs-demo-book/)** [![PDF Status](http://pdf.oerpub.org/oerpub/epubjs-demo-book.png)](http://pdf.oerpub.org/oerpub/epubjsreader-demo-book/) : updated every time the book is changed
 3. **[Edit the Book online!](http://oerpub.github.io/github-bookeditor/#repo/oerpub/epubjs-demo-book)** : takes a while to load but close the login to just play around
 4. [Download the book](https://github.com/oerpub/epubjs-demo-book/archive/gh-pages.zip) by clicking the "[Download ZIP](https://github.com/oerpub/epubjs-demo-book/archive/gh-pages.zip)" button on this page
+
